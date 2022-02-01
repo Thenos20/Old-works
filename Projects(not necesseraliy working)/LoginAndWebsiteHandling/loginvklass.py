@@ -3,8 +3,8 @@ import requests
 s = requests.session()
 
 payload = {
-    'UserName': '012507',
-    'Password': '229361',
+    'UserName': '',
+    'Password': '',
     'AuthMethod': 'FormsAuthentication'
 }
 
